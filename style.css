@@ -1,0 +1,16 @@
+.cabecalho{
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    height: 80px;
+   align-content: center;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.grafico1{
+    text-align: center;
+}
